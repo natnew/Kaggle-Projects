@@ -1,5 +1,6 @@
 # Kaggle-Projects
 This repository contains all my projects that were completed through Kaggle courses. The topics covered are: 
+https://www.kaggle.com/natashalondon
 
 * Python
 * Machine Learning
